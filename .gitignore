@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#des fichier suplementaires à ignorer
+
+/DOC.pem
+/ptiessais.py
+/Sockserveur.py
+/data/
+/test/
+

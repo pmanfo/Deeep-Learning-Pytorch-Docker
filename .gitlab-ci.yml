@@ -1,0 +1,8 @@
+buildjob:
+    stage: build
+    tags:
+     - gitlabmondocker
+    script :
+     - sudo docker build -t pmanfo/mondocker:latest
+     - sudo docker image push pmanfo/mondocker:latest
+     - aws ecs update-service --cluster flaskcluster --service flaskapp-service --force-new-deployment
