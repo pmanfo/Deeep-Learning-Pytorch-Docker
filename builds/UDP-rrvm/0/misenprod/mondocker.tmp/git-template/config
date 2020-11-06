@@ -1,4 +1,0 @@
-[fetch]
-	recurseSubmodules = false
-[http "https://gitlab.com"]
-	sslCAInfo = /home/patrice/mondocker/builds/UDP-rrvm/0/misenprod/mondocker.tmp/CI_SERVER_TLS_CA_FILE
