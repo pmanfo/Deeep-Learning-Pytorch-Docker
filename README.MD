@@ -10,7 +10,7 @@ This tutorial not being  specifically dedicated to machine learning, we will not
 
 These bases being laid, we can continue our advaneture ***:)***
 
-For this tutorial, we will be using **Python 3.6.9** and  **docker** for the contenerisation. Tha API will then be deployed on a linux server (EC2 AWS).
+For this tutorial, we will be using **Python 3.6.9** and  **docker** for the contenerisation. Tha API will then be deployed on a linux server ***(EC2 AWS)***.
 
 
 
