@@ -137,4 +137,4 @@ dmypy.json
 /test/
 
 .nouveauFichier.py
-/clsenv
+/clsenv/
