@@ -15,7 +15,9 @@ For this tutorial, we will be using **Python 3.6.9** and  **docker** for the con
 
 
 
+### Do not hesitate Contributing to this turorial or letting some comment,
 
+### This is only a start ,so there could be ,at the moment you wil fork this project is still getting some issues **!**
 
 
 
