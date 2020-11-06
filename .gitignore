@@ -109,6 +109,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+clsenv/
+
 
 # Spyder project settings
 .spyderproject
@@ -136,5 +138,5 @@ dmypy.json
 /data/
 /test/
 
-.nouveauFichier.py
-/clsenv/
+/nouveauFichier.py
+
